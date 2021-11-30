@@ -45,10 +45,10 @@
             </objects>
             <point key="canvasLocation" x="931.88405797101461" y="66.964285714285708"/>
         </scene>
-        <!--Hello-->
+        <!--Navigation Controller-->
         <scene sceneID="RRk-EJ-t5g">
             <objects>
-                <navigationController title="Hello" automaticallyAdjustsScrollViewInsets="NO" id="Fee-Di-hFK" sceneMemberID="viewController">
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="Fee-Di-hFK" sceneMemberID="viewController">
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="l42-Ou-FUW">
                         <rect key="frame" x="0.0" y="44" width="414" height="44"/>
